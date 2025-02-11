@@ -1,0 +1,2 @@
+# AI-Carte-T
+L’IA Carte T est une solution innovante pour le traitement et l’analyse rapide de données en temps réel. Grâce à des algorithmes avancés et une architecture optimisée, elle permet une extraction directe des informations pertinentes sans étapes intermédiaires complexes.
